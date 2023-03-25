@@ -1,8 +1,8 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name: Νικόλας Καραχρήστος
+### University Registration Number: dpsd18043 
+### GitHub Personal Profile: 
 ### Digital-Storytelling-Individual-Assignment: xxx
 
 # Introduction
