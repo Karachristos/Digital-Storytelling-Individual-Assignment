@@ -3,7 +3,7 @@
 ### First and Last Name: Νικόλας Καραχρήστος
 ### University Registration Number: dpsd18043 
 ### GitHub Personal Profile: https://github.com/Karachristos 
-### Digital-Storytelling-Individual-Assignment: xxx
+### Digital-Storytelling-Individual-Assignment: https://github.com/Karachristos/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
