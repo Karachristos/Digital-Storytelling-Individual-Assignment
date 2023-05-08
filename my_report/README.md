@@ -51,6 +51,12 @@
 Επιπλέον, πρόσθεσα ambience στη σκηνή καθώς και ήχους του άρματος εν κινήση τους οποίους επεξεργάστηκα στο audacity (δεν χρησιμοποίησα τον mixer της unity).
 Τέλος, αφού έφτιαξα το κατάλληλο τίτλο για τη σκηνή μου, έκανα animate εκείνον ώστε να κάνει fade in- fade out και έκανα transitions fade in from blacK ,στην αρχή της σκηνής, και fade out to black στο τέλος της. 
 
+To αποτέλεσμα
+
+https://user-images.githubusercontent.com/117390085/236721624-983e90cb-9b48-40ea-8d46-2c65faa5a610.mp4
+
+
+
 # 3rd Deliverable 
 
 
