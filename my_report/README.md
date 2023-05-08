@@ -35,12 +35,12 @@
 
 ![1](https://user-images.githubusercontent.com/117390085/236718311-cba41411-9e2f-4e5d-a7a9-f8f510824a54.PNG)
 
-Στη συνέχεια εμπλούτισα τη σκηνή μου με post-processing effects για να τη κάνω πιο δραματική/σοβαρή. "Έπαιξα λίγο με τις σκιές, τα highlights και τα midtones, πρόσθεσασ gamma, bloom, λίγο motion blur και "έριξα" την θερμοκρασία των χρωμάτων δίνοντας στη σκηνή μου ένα πιο κρύο περιβάλλον.
+Στη συνέχεια εμπλούτισα τη σκηνή μου με post-processing effects για να τη κάνω πιο δραματική/σοβαρή. "Έπαιξα λίγο με τις σκιές, τα highlights και τα midtones, πρόσθεσα gamma, bloom, λίγο motion blur και "έριξα" την θερμοκρασία των χρωμάτων δίνοντας στη σκηνή μου ένα πιο κρύο περιβάλλον.
 
 ![2](https://user-images.githubusercontent.com/117390085/236719679-95425a54-0017-4d31-9ed4-9844e30cc590.PNG)
 ![3](https://user-images.githubusercontent.com/117390085/236719693-23828537-c7c6-4352-9e41-b25c0cf0f9df.PNG)
 
-Έπειτα πρόσθεσα στις κάμερες vignette και λίγο depth of field για ένα πιο cinematic view.
+Έπειτα πρόσθεσα στις κάμερες vignette και λίγο depth of field για ένα πιο cinematic look.
 
 ![4](https://user-images.githubusercontent.com/117390085/236720007-410d429d-748e-4c0d-bf4a-d690c2659611.PNG)
 
@@ -49,7 +49,7 @@
 ![5](https://user-images.githubusercontent.com/117390085/236720591-3ba19e5e-8155-4d91-8fa7-21930390a662.PNG)
 
 Επιπλέον, πρόσθεσα ambience στη σκηνή καθώς και ήχους του άρματος εν κινήση τους οποίους επεξεργάστηκα στο audacity (δεν χρησιμοποίησα τον mixer της unity).
-Τέλος, αφού έφτιαξα το κατάλληλο τίτλο για τη σκηνή μου, έκανα animate εκείνον ώστε να κάνει fade in- fade out και έκανα transitions fade in from blacK στην αρχή της σκηνής και fade out to black στο τέλος της. 
+Τέλος, αφού έφτιαξα το κατάλληλο τίτλο για τη σκηνή μου, έκανα animate εκείνον ώστε να κάνει fade in- fade out και έκανα transitions fade in from blacK ,στην αρχή της σκηνής, και fade out to black στο τέλος της. 
 
 # 3rd Deliverable 
 
