@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/117390085/236721624-983e90cb-9b48-40ea
 
 
 # 3rd Deliverable 
-
+Για το 3ο παραδοτέο δεν εμπλούτισα τη σκηνή μου περαιτέρω (λόγω χρόνου), ωστόσο με τη βοήθεια των tutorials είχα ήδη δημιουργήσει το δικό μου real-time animation
 
 # Conclusions
 
